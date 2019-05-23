@@ -1,15 +1,15 @@
 {
-  "name": "bookmarker",
-  "version": "1.0.0",
-  "description": "A simple bookmarker app",
-  "main": "./app/main.js",
-  "scripts": {
-    "start": "electron .",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Imed Adel",
-  "license": "ISC",
-  "dependencies": {
-    "electron": "^5.0.1"
-  }
+	"name": "bookmarker",
+	"version": "1.0.0",
+	"description": "A simple bookmarker app",
+	"main": "app/main.js",
+	"scripts": {
+		"start": "electron .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Imed Adel",
+	"license": "ISC",
+	"dependencies": {
+		"electron": "^5.0.1"
+	}
 }
